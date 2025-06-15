@@ -12,9 +12,12 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectet
 
 ## Project 2
 
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Lorem ipsum: Link
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image">
+<p>
+Lorem ipsum: <a href="#">Link</a><br>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+</p>
+
 
 ## Project 3
 
