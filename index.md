@@ -37,17 +37,27 @@ layout: default
 
 # TOOLS
 
-* Lorem ipsum: Link
+* Lorem ipsum: <a href="#">Link</a><br>
+<p>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus
+</p>
 
-* Lorem ipsum: Link
+* Lorem ipsum: <a href="#">Link</a><br>
+<p>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus
+</p>
 
-* Lorem ipsum: Link
+* Lorem ipsum: <a href="#">Link</a><br>
+<p>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus
+</p>
 
-* Lorem ipsum: Link
+* Lorem ipsum: <a href="#">Link</a><br>
+<p>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus
+</p>
 
-* Lorem ipsum: Link
+* Lorem ipsum: <a href="#">Link</a><br>
+<p>
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus
+</p>
