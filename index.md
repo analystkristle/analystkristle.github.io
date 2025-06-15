@@ -9,7 +9,7 @@ layout: default
 <div class="projects-row">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image" class="proj-img">
   <p>
-  <strong>Lorem ipsum: <a href="#">Link</a><strong><br>
+  <strong>Lorem ipsum: <a href="#">Link</a></strong><br>
   Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
   </p>
 </div>
@@ -19,7 +19,7 @@ layout: default
 <div class="projects-row">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image" class="proj-img">
   <p>
-  <strong>Lorem ipsum: <a href="#">Link</a><strong><br>
+  <strong>Lorem ipsum: <a href="#">Link</a></strong><br>
   Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
   </p>
 </div>
@@ -29,7 +29,7 @@ layout: default
 <div class="projects-row">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image" class="proj-img">
   <p>
-  <strong>Lorem ipsum: <a href="#">Link</a><strong><br>
+  <strong>Lorem ipsum: <a href="#">Link</a></strong><br>
   Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
   </p>
 </div>
