@@ -6,24 +6,34 @@ layout: default
 
 ## Project 1
 
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Lorem ipsum: Link
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+<div class="projects-row">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image">
+  <p>
+  Lorem ipsum: <a href="#">Link</a><br>
+  Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+  </p>
+</div>
 
 ## Project 2
 
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image">
-<p>
-Lorem ipsum: <a href="#">Link</a><br>
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
-</p>
+<div class="projects-row">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image">
+  <p>
+  Lorem ipsum: <a href="#">Link</a><br>
+  Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+  </p>
+</div>
 
 
 ## Project 3
 
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Lorem ipsum: Link
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+<div class="projects-row">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="image">
+  <p>
+  Lorem ipsum: <a href="#">Link</a><br>
+  Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+  </p>
+</div>
 
 # TOOLS
 
