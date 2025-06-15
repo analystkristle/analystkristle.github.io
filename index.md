@@ -6,22 +6,21 @@ layout: default
 
 ## Project 1
 
+![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Lorem ipsum: Link
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ## Project 2
 
+![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Lorem ipsum: Link
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ## Project 3
 
+![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Lorem ipsum: Link
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 
 # TOOLS
 
