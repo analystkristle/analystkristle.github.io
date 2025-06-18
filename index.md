@@ -37,8 +37,12 @@ layout: default
 
 # TOOLS
 
-### * **Lorem ipsum: <a href="#">Link</a><br>**
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus
+#### **Data Cleaning using Excel**
+
+*   Lorem ipsum: <a href="#">Link</a><br>
+*   Lorem ipsum: <a href="#">Link</a><br>
+*   Lorem ipsum: <a href="#">Link</a><br>
+
 
 * **Lorem ipsum: <a href="#">Link</a><br>**
 <p>
