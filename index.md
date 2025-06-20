@@ -32,7 +32,7 @@ layout: default
   <img src="assets/img/category-a_preview.jpg" alt="image" class="proj-img" width="240" height="120">
   <p>
   <strong>Category A Insights Report: <a href="https://drive.google.com/file/d/1sy-a3oOYik5NWRQKdHYtbDaAoNyKLsSD/view">Link</a></strong><br>
-  This insight report was created to demonstrate market data analysis and interpretation capabilities to a company. The project aims to evaluate the market landscape of Category A (2021–2023) in support of strategic planning. Key insights were identified to guide future actions and strengthen market positioning within the category.
+  This insight report was created to demonstrate market data analysis and interpretation capabilities to a company. The project aims to evaluate the market landscape of Category A in support of strategic planning. Key insights were identified to guide future actions and strengthen market positioning within the category.
   </p>
 </div>
 
