@@ -13,7 +13,9 @@ layout: default
 
 *   Lorem ipsum: <a href="#">Link</a><br>
 *   Lorem ipsum: <a href="#">Link</a><br>
-*   Lorem ipsum: <a href="#">Link</a><br>
+
+#### **Data cleaning using Power Query in Power BI**
+
 *   Lorem ipsum: <a href="#">Link</a><br>
 
 #### **Data cleaning and analysis using Python**
@@ -42,7 +44,7 @@ layout: default
 <div class="projects-row">
   <img src="assets/img/ph-sg-co2-emissions_preview.jpg" alt="image" class="proj-img" width="240" height="120">
   <p>
-  <strong>PH & SG Carbon Dioxide Emissions: <a href="https://drive.google.com/file/d/1xcV7NB1O1sieTMs0M7Q7vtT_7ldb3Epo/view?usp=drive_link">Link</a></strong><br>
+  <strong>PH & SG Carbon Dioxide Emissions: <a href="https://drive.google.com/file/d/12GV1AS8BfSRaDRDxjR14PYpItkuCywN6/view?usp=drive_link">Link</a></strong><br>
   The report provides an analysis of carbon dioxide emissions in the Philippines and Singapore, comparing the factors and trends influencing emissions in both countries. It was created during a data analytics bootcamp as an exercise using Power BI.
   </p>
 </div>
