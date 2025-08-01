@@ -6,7 +6,7 @@ layout: default
 
 #### **Data extraction in SQL**
 
-*  Sample queries for the COVID-19 dataset (Italy) using Google BigQuery: <a href="https://drive.google.com/file/d/1OEAWgAhabo43M5Qedbsx9BGfxeQLnjiB/view?usp=sharing">Link</a><br>
+*  Sample queries for the COVID-19 dataset (Italy) using Google BigQuery: <a href="https://drive.google.com/file/d/1icaKU3D41kz5dSOJ0c5uLjUcNJjLAMXu/view?usp=sharing">Link</a><br>
 
 #### **Data cleaning using Microsoft Excel & Google Sheets**
 
