@@ -6,8 +6,8 @@ layout: default
 
 #### **Data extraction in SQL**
 
-*  COVID-19 dataset (Italy) queries using Google BigQuery: <a href="bigquery_covid19_italy_queries.sql">Link</a><br>
-*  DOH COVID-19 dataset queries using Google BigQuery: <a href="bigquery_doh_drop_queries.sql">Link</a><br>
+*  COVID-19 dataset (Italy) queries using Google BigQuery: <a href="projs-sql/bigquery_covid19_italy_queries.sql">Link</a><br>
+*  DOH COVID-19 dataset queries using Google BigQuery: <a href="projs-sql/bigquery_doh_drop_queries.sql">Link</a><br>
 
 #### **Data cleaning using Microsoft Excel & Google Sheets**
 
