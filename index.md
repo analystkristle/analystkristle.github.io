@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# DATA PROCESSING
+# DATA PREPARATION
 
 #### **Data extraction in SQL**
 
