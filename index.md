@@ -15,7 +15,7 @@ layout: default
 
 #### **Data cleaning using Power Query in Power BI**
 
-*   SEA Carbon Dioxide Emissions: <a href="https://drive.google.com/file/d/1twknZN_DvI0UFnUqBxG0P07Wu4wxjHce/view?usp=sharing">Link</a><br>
+*   SEA Carbon Dioxide Emissions Data: <a href="https://drive.google.com/file/d/1twknZN_DvI0UFnUqBxG0P07Wu4wxjHce/view?usp=sharing">Link</a><br>
 
 #### **Data cleaning and analysis using Python**
 
@@ -31,10 +31,3 @@ layout: default
   </p>
 </div>
 
-<div class="projects-row">
-  <img src="assets/img/category-a_preview.jpg" alt="image" class="proj-img" width="240" height="120">
-  <p>
-  <strong>Category A Insights Report: <a href="https://drive.google.com/file/d/1G17kao-_-LHtqYWN3_t7S6BssakW7cdp/view?usp=sharing">Link</a></strong><br>
-  The insight deck evaluated the market landscape of Category A in support of strategic planning. Key insights were identified to guide future actions and strengthen market positioning within the category. This was a sample task/exercise made using PowerPoint.
-  </p>
-</div>
