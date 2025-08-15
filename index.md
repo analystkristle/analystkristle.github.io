@@ -32,9 +32,9 @@ layout: default
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/sea-co2-emissions_preview.png" alt="image" class="proj-img" width="240" height="120">
+  <img src="assets/img/sea-co2-emissions_preview.png" alt="image" class="proj-img" width="240" height="135">
   <p>
   <strong>SEA Carbon Dioxide Emissions Dashboard: <a href="https://drive.google.com/file/d/1UHjx5OjQSQcZb4zHFHp78p4PJr-hkh_k/view?usp=sharing">Link</a></strong><br>
-  This Power BI dashboard tracks carbon dioxide emissions over time, offering a clear view of emission trends and highlighting key contributors. It also displays metrics such as CO2 emissions per capita, per unit of GDP, per energy unit, and consumption-based CO2.
+  This Power BI dashboard tracks carbon dioxide emissions over time, offering a clear view of emission trends and highlighting key contributors. It also displays metrics such as emissions per capita, per unit of GDP, per energy unit, and consumption-based emissions.
   </p>
 </div>
