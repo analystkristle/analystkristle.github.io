@@ -21,7 +21,7 @@ layout: default
 
 *   Work in progress. Updates coming soon.
 
-# REPORTS
+# REPORTS & DASHBOARDS
 
 <div class="projects-row">
   <img src="assets/img/ph-sg-co2-emissions_preview.jpg" alt="image" class="proj-img" width="240" height="120">
