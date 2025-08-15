@@ -9,11 +9,7 @@ layout: default
 *  COVID-19 dataset (Italy) queries using Google BigQuery: <a href="https://github.com/analystkristle/projs-sql/blob/main/bigquery_covid19_italy_queries.sql">Link</a><br>
 *  DOH COVID-19 dataset queries using Google BigQuery: <a href="https://github.com/analystkristle/projs-sql/blob/main/bigquery_doh_drop_queries.sql">Link</a><br>
 
-#### **Data cleaning using Microsoft Excel & Google Sheets**
-
-*   Work in progress. Updates coming soon.
-
-#### **Data cleaning using Power Query in Power BI**
+#### **Data cleaning using Microsoft Excel & Power Query in Power BI**
 
 *   SEA Carbon Dioxide Emissions Data: <a href="https://drive.google.com/file/d/1twknZN_DvI0UFnUqBxG0P07Wu4wxjHce/view?usp=sharing">Link</a><br>
 
