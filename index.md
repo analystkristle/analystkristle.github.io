@@ -28,7 +28,7 @@ layout: default
   <p>
   <strong>PH & SG Carbon Dioxide Emissions Report: <a href="https://drive.google.com/file/d/1LMnbGtwRzrxo4vxLzF8oxGaFF7XVPiNY/view?usp=sharing">Preview Link</a></strong><br>
   This Power BI report provides an analysis of carbon dioxide emissions in the Philippines and Singapore, comparing the trends and factors influencing emissions in both countries.
-  <i>(Files have been uploaded to the GitHub repository.)</i>
+  <i>(Files are available on the GitHub repository.)</i>
   </p>
 </div>
 
@@ -37,6 +37,6 @@ layout: default
   <p>
   <strong>SEA Carbon Dioxide Emissions Dashboard: <a href="https://drive.google.com/file/d/1UHjx5OjQSQcZb4zHFHp78p4PJr-hkh_k/view?usp=sharing">Preview Link</a></strong><br>
   This Power BI dashboard tracks carbon dioxide emissions over time, offering a clear view of emission trends and highlighting key contributors. It also displays metrics such as emissions per capita, per unit of GDP, per energy unit, and consumption-based emissions.
-  <i>(Files have been uploaded to the GitHub repository.)</i>
+  <i>(Files are available on the GitHub repository.)</i>
   </p>
 </div>
