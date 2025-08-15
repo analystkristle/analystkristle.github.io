@@ -4,10 +4,10 @@ layout: default
 
 # DATA PREPARATION
 
-###### Data extraction in SQL<br>
+Data extraction in SQL<br>
 *  <strong>COVID-19 dataset (Italy) queries using Google BigQuery: <a href="https://github.com/analystkristle/projs_sql/blob/main/bigquery_covid19_italy_queries.sql">Link</a><strong><br>
 
-###### Data cleaning using Microsoft Excel & Power Query in Power BI
+Data cleaning using Microsoft Excel & Power Query in Power BI
 
 *   <strong>SEA Carbon Dioxide Emissions Data: <a href="https://drive.google.com/file/d/1twknZN_DvI0UFnUqBxG0P07Wu4wxjHce/view?usp=sharing">Link</a><strong><br>
 
