@@ -18,16 +18,16 @@ Data cleaning and analysis using Python
 # REPORTS & DASHBOARDS
 
 <div class="projects-row">
-  <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="120">
+  <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="130">
   <p>
-  <strong>PH & SG Carbon Dioxide Emissions Report: <a href="https://drive.google.com/file/d/1imqnAunhdwbVWlzKXjZPW75DJ3s9Hcs-/view?usp=sharing">PDF</a></strong> | <a href="https://drive.google.com/file/d/1LMnbGtwRzrxo4vxLzF8oxGaFF7XVPiNY/view?usp=sharing">Power BI Preview</a></strong><br>
+  <strong>PH & SG Carbon Dioxide Emissions Report: <a href="https://drive.google.com/file/d/1imqnAunhdwbVWlzKXjZPW75DJ3s9Hcs-/view?usp=sharing">PDF</a></strong> | <strong><a href="https://drive.google.com/file/d/1LMnbGtwRzrxo4vxLzF8oxGaFF7XVPiNY/view?usp=sharing">Power BI Preview</a></strong><br>
   This Power BI report provides an analysis of carbon dioxide emissions in the Philippines and Singapore, comparing the trends and factors influencing emissions in both countries.<br>
   <i>(Files are available on the GitHub repository.)</i>
   </p>
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/sea-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="135">
+  <img src="assets/img/sea-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="125">
   <p>
   <strong>SEA Carbon Dioxide Emissions Dashboard: <a href="https://drive.google.com/file/d/1UHjx5OjQSQcZb4zHFHp78p4PJr-hkh_k/view?usp=sharing">PDF</a></strong><br>
   This Power BI dashboard tracks carbon dioxide emissions over time, offering an overview of trends and main contributors. It also displays metrics such as emissions per capita, per unit of GDP, per energy unit, and consumption-based emissions.<br>
