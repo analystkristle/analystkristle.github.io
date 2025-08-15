@@ -7,7 +7,6 @@ layout: default
 #### **Data extraction in SQL**
 
 *  COVID-19 dataset (Italy) queries using Google BigQuery: <a href="https://github.com/analystkristle/projs-sql/blob/main/bigquery_covid19_italy_queries.sql">Link</a><br>
-*  DOH COVID-19 dataset queries using Google BigQuery: <a href="https://github.com/analystkristle/projs-sql/blob/main/bigquery_doh_drop_queries.sql">Link</a><br>
 
 #### **Data cleaning using Microsoft Excel & Power Query in Power BI**
 
