@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+# PORTFOLIO
 
-# DATA PREPARATION
+## DATA PREPARATION
 
 Data extraction in SQL<br>
 *  <strong>COVID-19 dataset (Italy) queries using Google BigQuery: <a href="https://github.com/analystkristle/projs_sql/blob/main/bigquery_covid19_italy_queries.sql">Link</a><strong><br>
@@ -15,7 +16,7 @@ Data cleaning and analysis using Python
 
 *   Work in progress. Updates coming soon.
 
-# REPORTS & DASHBOARDS
+## REPORTS & DASHBOARDS
 
 <div class="projects-row">
   <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="130">
@@ -29,7 +30,7 @@ Data cleaning and analysis using Python
 <div class="projects-row">
   <img src="assets/img/sea-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="125">
   <p>
-  <strong>SEA Carbon Dioxide Emissions Dashboard: <a href="https://drive.google.com/file/d/1UHjx5OjQSQcZb4zHFHp78p4PJr-hkh_k/view?usp=sharing">PDF</a></strong><br>
+  <strong>SEA Carbon Dioxide Emissions Dashboard: <a href="https://drive.google.com/file/d/1UHjx5OjQSQcZb4zHFHp78p4PJr-hkh_k/view?usp=sharing">PDF</a></strong> | <strong><a href="https://drive.google.com/file/d/1_gf_lLISZlyKQ-2KOQGZXztTPsz0Knwl/view?usp=sharing">Power BI Preview</a></strong><br>
   This Power BI dashboard tracks carbon dioxide emissions over time, offering an overview of trends and main contributors. It also displays metrics such as emissions per capita, per unit of GDP, per energy unit, and consumption-based emissions.<br>
   <i>(Files are available on the GitHub repository.)</i>
   </p>
