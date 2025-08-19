@@ -7,7 +7,7 @@ layout: default
 
 Data extraction in SQL<br>
 *  <strong>COVID-19 dataset (Italy) queries using Google BigQuery: <a href="https://github.com/analystkristle/projs_sql/blob/main/bigquery_covid19_italy_queries.sql">Queries</a></strong><br>
-*  <strong>IMDB queries using Google BigQuery: <a href="https://github.com/analystkristle/projs_sql/blob/main/bigquery_imdb_queries.sql">Queries</a><strong> | <strong><a href="https://docs.google.com/spreadsheets/d/1Mtms28j1aJvxPSv_WspdIcGT87uM92E8fZWt-iftU6Y/edit?usp=sharing">Data Dictionary</a></strong><br>
+*  <strong>IMDB queries using Google BigQuery: <a href="https://github.com/analystkristle/projs_sql/blob/main/bigquery_imdb_queries.sql">Queries</a></strong> | <strong><a href="https://docs.google.com/spreadsheets/d/1Mtms28j1aJvxPSv_WspdIcGT87uM92E8fZWt-iftU6Y/edit?usp=sharing">Data Dictionary</a></strong><br>
 
 Data cleaning using Microsoft Excel & Power Query in Power BI
 
