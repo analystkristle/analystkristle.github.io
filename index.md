@@ -36,7 +36,7 @@ Data cleaning and analysis using Python
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/us_birth_stats_preview_img.png" alt="image" class="proj-img" width="240" height="120">
+  <img src="#" alt="image" class="proj-img" width="240" height="120">
   <p>
   <strong>US Birth Statistics Overview Dashboard: <a href="https://lookerstudio.google.com/reporting/6c22ae81-c119-4f1f-8369-41ecda51b33d">Looker Studio View</a></strong><br>
   This Looker Studio dashboard presents an overview of U.S. birth data from 1989 to 1990, covering trends and distributions.<br>
