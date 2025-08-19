@@ -11,7 +11,7 @@ Data extraction in SQL<br>
 
 Data cleaning using Microsoft Excel & Power Query in Power BI
 
-*   <strong>SEA Carbon Dioxide Emissions Data: <a href="https://drive.google.com/file/d/1twknZN_DvI0UFnUqBxG0P07Wu4wxjHce/view?usp=sharing"><br>
+*   <strong>SEA Carbon Dioxide Emissions Data: <a href="https://drive.google.com/file/d/1twknZN_DvI0UFnUqBxG0P07Wu4wxjHce/view?usp=sharing">Link</a><strong></a><strong><br>
 
 Data cleaning and analysis using Python
 
