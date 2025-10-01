@@ -20,7 +20,7 @@ Data cleaning and analysis using Python
 ## REPORTS & DASHBOARDS
 
 <div class="projects-row">
-  <img src="assets/img/airline_loyalty_program_preview_image.png" alt="image" class="proj-img" width="225" height="120">
+  <img src="assets/img/airline_loyalty_program_preview_img.png" alt="image" class="proj-img" width="230" height="120">
   <p>
   <strong>Airline Loyalty Program Dashboard:
     <a href="https://public.tableau.com/app/profile/analystkristle/viz/customer_loyalty_program_dashboard_2017_2018/Dashboard">Tableau View</a></strong><br>
