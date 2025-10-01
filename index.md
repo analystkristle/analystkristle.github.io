@@ -42,3 +42,12 @@ Data cleaning and analysis using Python
   This Looker Studio dashboard presents an overview of U.S. birth data from 1989 to 1990, covering trends and distributions.<br>
   </p>
 </div>
+
+<div class="projects-row">
+  <img src="assets/img/sea-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="125">
+  <p>
+  <strong>Airline Loyalty Program Dashboard:
+    <a href="https://public.tableau.com/app/profile/analystkristle/viz/customer_loyalty_program_dashboard_2017_2018/Dashboard">Tableau View</a></strong><br>
+  This Tableau dashboard compares customer loyalty program enrollments at Northern Lights Air (NLA), a hypothetical Canadian airline, between standard periods and the promotional campaign period (February to April 2018). The visualization highlights the impact of the promotion on driving new enrollments and provides insights into enrollment trends over time.<br>
+  </p>
+</div>
