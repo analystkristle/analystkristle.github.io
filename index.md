@@ -20,10 +20,10 @@ Data cleaning and analysis using Python
 ## REPORTS & DASHBOARDS
 
 <div class="projects-row">
-  <img src="assets/img/airline_loyalty_program_preview_img.png" alt="image" class="proj-img" width="240" height="125">
+  <img src="assets/img/airline_loyalty_program_preview_img.png" alt="image" class="proj-img" width="225" height="140">
   <p>
   <strong>Airline Loyalty Program Dashboard:
-    <a href="https://public.tableau.com/app/profile/analystkristle/viz/customer_loyalty_program_dashboard_2017_2018/Dashboard">Tableau Link</a></strong><br> | <strong><a href="https://www.canva.com/design/DAG0m1FZcTY/mrsuv1tsK2S447rraDmh2w/edit?utm_content=DAG0m1FZcTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Insights Report</a></strong><br>
+    <a href="https://public.tableau.com/app/profile/analystkristle/viz/customer_loyalty_program_dashboard_2017_2018/Dashboard">Tableau Link</a></strong> | <strong><a href="https://www.canva.com/design/DAG0m1FZcTY/mrsuv1tsK2S447rraDmh2w/edit?utm_content=DAG0m1FZcTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Insights Report</a></strong><br>
   This Tableau dashboard compares customer loyalty program enrollments at Northern Lights Air (NLA), a hypothetical Canadian airline, between standard periods and the promotional campaign period (February to April 2018).<br>
   </p>
 </div>
