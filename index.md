@@ -23,13 +23,13 @@ Data cleaning and analysis using Python
   <img src="assets/img/airline_loyalty_program_preview_img.png" alt="image" class="proj-img" width="240" height="125">
   <p>
   <strong>Airline Loyalty Program Dashboard:
-    <a href="https://public.tableau.com/app/profile/analystkristle/viz/customer_loyalty_program_dashboard_2017_2018/Dashboard">Tableau Link</a></strong><br>
+    <a href="https://public.tableau.com/app/profile/analystkristle/viz/customer_loyalty_program_dashboard_2017_2018/Dashboard">Tableau Link</a></strong><br> | <strong><a href="https://www.canva.com/design/DAG0m1FZcTY/mrsuv1tsK2S447rraDmh2w/edit?utm_content=DAG0m1FZcTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Insights Report</a></strong><br>
   This Tableau dashboard compares customer loyalty program enrollments at Northern Lights Air (NLA), a hypothetical Canadian airline, between standard periods and the promotional campaign period (February to April 2018).<br>
   </p>
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="125">
+  <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="130">
   <p>
   <strong>PH & SG Carbon Dioxide Emissions Report: <a href="https://drive.google.com/file/d/1imqnAunhdwbVWlzKXjZPW75DJ3s9Hcs-/view?usp=sharing">PDF</a></strong> | <strong><a href="https://drive.google.com/file/d/1LMnbGtwRzrxo4vxLzF8oxGaFF7XVPiNY/view?usp=sharing">Power BI Preview</a></strong><br>
   This Power BI report provides an analysis of carbon dioxide emissions in the Philippines and Singapore, comparing the trends and factors influencing emissions in both countries.<br>
@@ -45,7 +45,7 @@ Data cleaning and analysis using Python
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/us_birth_stats_preview_img.png" alt="image" class="proj-img" width="240" height="125">
+  <img src="assets/img/us_birth_stats_preview_img.png" alt="image" class="proj-img" width="240" height="120">
   <p>
   <strong>US Birth Statistics Overview Dashboard: <a href="https://lookerstudio.google.com/reporting/6c22ae81-c119-4f1f-8369-41ecda51b33d">Looker Studio Link</a></strong><br>
   This Looker Studio dashboard presents an overview of U.S. birth data from 1989 to 1990, covering trends and distributions.<br>
