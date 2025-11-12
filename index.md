@@ -29,18 +29,19 @@ Data cleaning and analysis using Python
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="130">
+  <img src="assets/img/logo.png" alt="image" class="proj-img" width="225" height="140">
   <p>
-  <strong>PH & SG Carbon Dioxide Emissions Report: <a href="https://drive.google.com/file/d/1imqnAunhdwbVWlzKXjZPW75DJ3s9Hcs-/view?usp=sharing">PDF</a></strong> | <strong><a href="https://drive.google.com/file/d/1LMnbGtwRzrxo4vxLzF8oxGaFF7XVPiNY/view?usp=sharing">Power BI Preview</a></strong><br>
-  This Power BI report provides an analysis of carbon dioxide emissions in the Philippines and Singapore, comparing the trends and factors influencing emissions in both countries.<br>
+  <strong>B2B Sales Performance Overview Dashboard:
+    <a href="https://public.tableau.com/app/profile/analystkristle/viz/SalesPerformanceOverview2017/Dashboard1?publish=yes">Tableau Link</a></strong> | <strong><a href="https://docs.google.com/presentation/d/15ULGHFdFO1bmLcfSDVCuvxj7HCOvfAdYqZ_DaG8jp8w/edit?usp=sharing">Insights Report</a></strong><br>
+  This Tableau dashboard shows sales performance for a hypothetical computer hardware company, including opportunities, revenue, win rate, deal stages, product and industry performance, and monthly trends to support pipeline and strategy insights.<br>
   </p>
 </div>
 
 <div class="projects-row">
-  <img src="assets/img/sea-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="125">
+  <img src="assets/img/ph-sg-co2-emissions_preview_img.png" alt="image" class="proj-img" width="240" height="130">
   <p>
-  <strong>SEA Carbon Dioxide Emissions Dashboard: <a href="https://drive.google.com/file/d/1UHjx5OjQSQcZb4zHFHp78p4PJr-hkh_k/view?usp=sharing">PDF</a></strong> | <strong><a href="https://drive.google.com/file/d/1_gf_lLISZlyKQ-2KOQGZXztTPsz0Knwl/view?usp=sharing">Power BI Preview</a></strong><br>
-  This Power BI dashboard tracks carbon dioxide emissions over time, offering an overview of trends and main contributors. It also displays metrics such as emissions per capita, per unit of GDP, per energy unit, and consumption-based emissions.<br>
+  <strong>PH & SG Carbon Dioxide Emissions Report: <a href="https://drive.google.com/file/d/1imqnAunhdwbVWlzKXjZPW75DJ3s9Hcs-/view?usp=sharing">PDF</a></strong> | <strong><a href="https://drive.google.com/file/d/1LMnbGtwRzrxo4vxLzF8oxGaFF7XVPiNY/view?usp=sharing">Power BI Preview</a></strong><br>
+  This Power BI report provides an analysis of carbon dioxide emissions in the Philippines and Singapore, comparing the trends and factors influencing emissions in both countries.<br>
   </p>
 </div>
 
